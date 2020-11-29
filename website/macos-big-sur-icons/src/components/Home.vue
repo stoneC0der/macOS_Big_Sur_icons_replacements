@@ -285,7 +285,6 @@ export default {
         })
         lastVisible = querySnapshot.docs[querySnapshot.docs.length-1];
       })
-
     },
 
     scroll() {

@@ -90,7 +90,6 @@
 import Vue from 'vue'
 import { mapActions } from 'vuex';
 import * as firebase from "firebase";
-// import * as firebaseui from "firebaseui";
 
 // let firebaseConfig = {
 //   apiKey: process.env.VUE_APP_FIREBASE_KEY,

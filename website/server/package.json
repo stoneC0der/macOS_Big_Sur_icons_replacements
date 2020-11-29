@@ -1,0 +1,10 @@
+{
+  "name": "macosicons",
+  "description": "parse-server for macOSicons",
+  "scripts": {
+    "start": "parse-server config.json"
+  },
+  "dependencies": {
+    "parse-server": "^3.9.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "appId": "macOSicons",
+  "masterKey": "macOSicons",
+  "appName": "macOSicons",
+  "cloud": "./cloud/main",
+  "databaseURI": "macOSicons"
+}
